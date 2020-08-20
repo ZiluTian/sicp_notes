@@ -1,1 +1,0 @@
-("7.6" racket ("62d52267faf24a2c7e8e74a48d7e259b36c1f239" . "d7125c3d2b423e3f42fec3fb29807ba09d208f01") (collects #"compatibility" #"mlist.rkt") (collects #"errortrace" #"errortrace-key.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"rackunit" #"main.rkt") (collects #"wxme" #"read.rkt"))
