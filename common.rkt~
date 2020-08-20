@@ -1,8 +1,0 @@
-#lang racket
-
-; Some common functions that are widely used
-(provide inc)
-(provide dec)
-(provide average)
-
-
